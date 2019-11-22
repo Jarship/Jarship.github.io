@@ -1,4 +1,4 @@
-# Jarship.github.io
+# John Bishop
 
 ```
 Hello, I'm John Bishop, a developer from Grand Rapids, MI
